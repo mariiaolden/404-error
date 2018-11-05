@@ -26,11 +26,12 @@ div p { margin:0; }
   opacity:.4;
 }
 
-a.button {
+.button {
+  appearance: button;
   text-decoration: none;
-  color: white;
+  color: #FFF;
   border: dotted;
-  border-color: white;
+  border-color: #FFF;
 }
 @keyframes upper {
   0%,19.999%,22%,62.999%,64%, 64.999%,70%,100% {
