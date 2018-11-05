@@ -25,6 +25,13 @@ div p { margin:0; }
   text-shadow: none;
   opacity:.4;
 }
+
+a.button {
+  text-decoration: none;
+  color: white;
+  border: dotted;
+  border-color: white;
+}
 @keyframes upper {
   0%,19.999%,22%,62.999%,64%, 64.999%,70%,100% {
     opacity:.99; text-shadow: 0 0 80px #ffffff,0 0 30px #008000,0 0 6px #0000ff;
