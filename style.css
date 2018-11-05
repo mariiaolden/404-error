@@ -26,13 +26,13 @@ div p { margin:0; }
   opacity:.4;
 }
 #but {
-   font-size: 15px;
+   font-size: 20px;
 }
 .c {
   appearance: button;
   text-decoration: none;
   color: #FFF;
-  border: dotted;
+  border: double;
   border-color: #FFF;
 }
 @keyframes upper {
