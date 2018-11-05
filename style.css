@@ -25,14 +25,15 @@ div p { margin:0; }
   text-shadow: none;
   opacity:.4;
 }
-
+#but {
+   font-size: 15px;
+}
 .c {
   appearance: button;
   text-decoration: none;
   color: #FFF;
   border: dotted;
   border-color: #FFF;
-  font-size: 15px;
 }
 @keyframes upper {
   0%,19.999%,22%,62.999%,64%, 64.999%,70%,100% {
