@@ -32,7 +32,7 @@ div p { margin:0; }
   appearance: button;
   text-decoration: none;
   color: #FFF;
-  border: double;
+  border: groove;
   border-color: #FFF;
 }
 @keyframes upper {
